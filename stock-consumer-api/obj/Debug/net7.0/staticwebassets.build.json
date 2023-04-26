@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "6n/PeY1AhhApA9NJfWBk4iguI2z2KeSQS9LiFC2a47E=",
+  "Source": "stock-consumer-api",
+  "BasePath": "_content/stock-consumer-api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
